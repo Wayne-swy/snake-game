@@ -4,7 +4,6 @@
   "outputDirectory": ".",
   "devCommand": null,
   "installCommand": null,
-  "framework": "static",
   "routes": [
     {
       "src": "/(.*)",
